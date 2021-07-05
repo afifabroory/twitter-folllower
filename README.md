@@ -1,2 +1,2 @@
 # twitter-folllower
-Scrape Twitter User Follower using Selenium
+**Warning!** The program is buggy
